@@ -1,6 +1,6 @@
 # My LaTeX CV
 
-This repository contains the LaTeX source code and PDF versions of my professional resumes, organized by area of expertise.
+This repository contains the LaTeX source code of my professional resumes, organized by area of expertise.
 
 ---
 
